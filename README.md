@@ -1,2 +1,3 @@
 # NFTs-upload-to-OpenSea
-pip instal -r requirements.txt
+1. pip install -r requirements.txt
+2. python openseauploud.py (Run and script)
