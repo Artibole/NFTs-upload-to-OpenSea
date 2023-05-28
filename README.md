@@ -1,4 +1,0 @@
-# NFTs-upload-to-OpenSea
-1. pip install -r requirements.txt
-2. python openseaupload.py (Run and script)
-3. .gitignore
